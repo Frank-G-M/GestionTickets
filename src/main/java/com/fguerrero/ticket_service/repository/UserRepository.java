@@ -1,5 +1,6 @@
-package com.fguerrero.ticket_service;
+package com.fguerrero.ticket_service.repository;
 
+import com.fguerrero.ticket_service.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
